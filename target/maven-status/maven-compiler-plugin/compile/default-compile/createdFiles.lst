@@ -1,0 +1,17 @@
+az\eh\restaurants\service\ReservationService.class
+az\eh\restaurants\dao\repository\RestaurantsTableRepository.class
+az\eh\restaurants\dao\entity\Restaurants.class
+az\eh\restaurants\service\impl\RestaurantsServiceImpl.class
+az\eh\restaurants\RestaurantsApplication.class
+az\eh\restaurants\controller\RestaurantsController.class
+az\eh\restaurants\swagger\SwaggerConfig.class
+az\eh\restaurants\dao\entity\RestaurantsTable.class
+az\eh\restaurants\controller\InternalController.class
+az\eh\restaurants\dao\repository\RestaurantsRepository.class
+az\eh\restaurants\dao\repository\ReservationRepository.class
+az\eh\restaurants\service\impl\ReservationServiceImpl.class
+az\eh\restaurants\service\impl\RestaurantsTableServiceImpl.class
+az\eh\restaurants\service\RestaurantsTableService.class
+az\eh\restaurants\dao\entity\Reservation.class
+az\eh\restaurants\service\RestaurantsService.class
+az\eh\restaurants\model\RestaurantsTableDTO.class

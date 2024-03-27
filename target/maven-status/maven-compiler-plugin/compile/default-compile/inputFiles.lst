@@ -1,0 +1,17 @@
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\RestaurantsApplication.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\controller\RestaurantsController.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\dao\repository\ReservationRepository.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\dao\repository\RestaurantsTableRepository.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\dao\entity\Restaurants.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\dao\repository\RestaurantsRepository.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\service\impl\ReservationServiceImpl.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\model\RestaurantsTableDTO.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\dao\entity\RestaurantsTable.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\service\impl\RestaurantsTableServiceImpl.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\service\ReservationService.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\dao\entity\Reservation.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\service\RestaurantsService.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\service\RestaurantsTableService.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\controller\InternalController.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\service\impl\RestaurantsServiceImpl.java
+D:\3. Example\Spring MS\restaurantsMS\src\main\java\az\eh\restaurants\swagger\SwaggerConfig.java
